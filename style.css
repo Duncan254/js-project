@@ -1,0 +1,11 @@
+ input[type="number"] {
+    width: 150px;
+}
+
+input[class="form-control"], select[class="custom-select"], option[value=""] {
+    width: 150px;
+}
+
+button{
+    width: 150px;
+}
